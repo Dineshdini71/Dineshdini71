@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dinesh</h1>
 <h3 align="center">🚀 Passionate AWS & DevOps Engineer | Python Developer</h3>
-0
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dineshdini71&label=Profile%20views&color=0e75b6&style=flat" alt="dineshdini71" /> </p>
 
 - 📫 How to reach me **dinidinesh71@gmail.com**
