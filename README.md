@@ -29,7 +29,7 @@ technical_background:
   ]
   
 currently_learning: ["Data Science, Kubernetes, and AI"]
-2024 Goals: ["Learn new Technologies."]
+2026 Goals: ["Learn new Technologies."]
 ```
 <!-- <h3 align="left">Connect with me:</h3> -->
 <p align="left">
